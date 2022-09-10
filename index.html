@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lab3</title>
+</head>
+<body>
+    <p>12 <br>
+        <script>
+            function Loops(which){
+                if (which) for(let i = 0; i < 5; i++) alert(i);
+                else for(let i = 0; i < 5; ++i) alert(i);
+            }
+        </script>
+        <button onclick="alert(Loops(true))">Постфиксная форма</button>
+        <button onclick="alert(Loops(false))">Префиксная форма</button>
+    </p>
+
+    <p>13 <br>
+        <script>
+            function From2to10(){
+                let result = "";
+                for(let i = 2; i < 11; i++) 
+                    if (i % 2 == 0) 
+                        result += `${i} `;
+                return result;
+            }
+        </script>
+        <button onclick="alert(From2to10())">При помощи цикла for выведите чётные числа от 2 до 10.</button>
+
+    </p>
+</body>
+</html>
