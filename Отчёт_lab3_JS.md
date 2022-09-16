@@ -193,5 +193,7 @@ pow(1, 100) = 1 * 1 * ...* 1 = 1
 30. 6 kyu https://www.codewars.com/kata/multiples-of-3-or-5
 
 
-Задания 23 - 30[link](https://www.codewars.com/users/thejiexa/completed_solutions)
+Задания 23 - 30[link][1]
 
+[1]: (https://www.codewars.com/users/thejiexa/completed_solutions)
+[2]: (https://trueimages.ru/img/e0/55/93854236.png)
