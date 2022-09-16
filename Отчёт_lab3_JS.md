@@ -470,7 +470,6 @@ pow(1, 100) = 1 * 1 * ...* 1 = 1
 
 
 
-[Задания 23 - 30][1]
+[Задания 23 - 30](https://www.codewars.com/users/thejiexa/completed_solutions)
 
-[1]: (https://www.codewars.com/users/thejiexa/completed_solutions)
 [2]: (https://trueimages.ru/img/e0/55/93854236.png)
