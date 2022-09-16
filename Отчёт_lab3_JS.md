@@ -194,26 +194,9 @@ pow(1, 100) = 1 * 1 * ...* 1 = 1
 29. 6 kyu https://www.codewars.com/kata/n-th-fibonacci
 30. 6 kyu https://www.codewars.com/kata/multiples-of-3-or-5
 
-Решение:
+## Решение:
 ```JavaScript
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lab3</title>
-    <style>
-        * {
-            font-size: medium;
-            font-weight: bolder;
-            font-family: calibri;
-            background-color: lightcoral;
-        }
-    </style>
-</head>
-<body>
-
     <p>1, 2, 3, 4, 5 <br>
         <button onclick="alert(null || 2 || undefined )">null || 2 || undefined </button>
         <button onclick="alert(alert(1) || 2 || alert(3) )">alert(1) || 2 || alert(3) </button>
@@ -483,10 +466,8 @@ pow(1, 100) = 1 * 1 * ...* 1 = 1
         <button onclick="min(+prompt('a:'), +prompt('b:'))">min(a,b)</button>
         <button onclick="pow(+prompt('x:'), +prompt('n:'))">pow(x,n)</button>
     </p>
-
-</body>
-</html>
 ```
+
 
 
 [Задания 23 - 30][1]
